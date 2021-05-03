@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Resgate</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="email">email</string>
 </resources>
